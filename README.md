@@ -1,0 +1,1 @@
+This is my main portfolio repository. More file structure will be added hopefully later today.
