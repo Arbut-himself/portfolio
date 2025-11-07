@@ -1,3 +1,3 @@
-def count_words(sentence):
-    sentence = sentence.split(" ")
-    return len(sentence)
+def count_words(sentence: str) -> int:
+    wordlist = sentence.split(" ")
+    return len(wordlist)
