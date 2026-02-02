@@ -1,6 +1,6 @@
 from datetime import datetime, timedelta
 
-def digital_detox(logs):
+def digital_detox(logs: list) -> bool:
     """
     This function is horrible. It needs to be broken down into multiple ones.
     However, I am too lazy to do it now and will just leave refactoring for later.
